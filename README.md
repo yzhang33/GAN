@@ -1,3 +1,4 @@
 ### GAN in pytorch
 
-Generate images trained by GAN
+#### objective 
+Generate images by GAN.
